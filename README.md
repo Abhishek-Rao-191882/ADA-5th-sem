@@ -1,4 +1,7 @@
 # ADA-5th-sem
+Analysis and Design of Algorithm <br/>
+Course Code: BT CS 501A <br/>
+Teacher: Dr. Manish Kumar
 
 ## Unit-1 
 ### Introduction: Algorithms, Analysis of Algorithms, Design of Algorithms, Complexity of Algorithms, Asymptotic Notations, Growth of function, Recurrences and their solution methods. Divide and Conquer: General method, Binary Search, Exponentiation problem, Merge Sort, Quick Sort, Selection Sort, Strassen’s Matrix Multiplication algorithms and analysis of algorithms for these problems. 
@@ -12,5 +15,5 @@
 ## Unit-4 
 ### Primality testing, Integer factorization, Randomized algorithms, Probabilistic algorithms. String Matching algorithms: Rabin Karp, KMP, Boyer Moore. Introduction to problem classes – NP, NPC, NP-Hard.
 
-Referene Book -  Introduction to algorithms by T.H Cormen
+Referene Book -  Introduction to algorithms by T.H Cormen <br/>
 Link- https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf
