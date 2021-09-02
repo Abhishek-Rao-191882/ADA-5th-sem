@@ -11,3 +11,6 @@
 
 ## Unit-4 
 ### Primality testing, Integer factorization, Randomized algorithms, Probabilistic algorithms. String Matching algorithms: Rabin Karp, KMP, Boyer Moore. Introduction to problem classes – NP, NPC, NP-Hard.
+
+Referene Book -  Introduction to algorithms by T.H Cormen
+Link- https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf
