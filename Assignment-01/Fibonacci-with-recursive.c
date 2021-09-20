@@ -17,7 +17,7 @@ else
 int main ()
 {
     // taking the value of n
-    double n=5;
+    double n=30;
 
     // printing the fibonacci series using for loop starting from value of n from 0 to n
     printf("Fibonacci Series: ");
